@@ -1,4 +1,4 @@
-![Captura de pantalla 2024-05-14 093510](https://github.com/Wargish/CyberElectro/assets/101837509/e81373a2-3439-41d9-a1e4-ff0aa746cf55)
+![IMG_5648](https://github.com/Wargish/CyberElectro/assets/101837509/7bef0303-5549-4d61-82fe-b0be9d1044b8)
 # Project Title
 
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
