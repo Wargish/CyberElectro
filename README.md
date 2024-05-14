@@ -1,16 +1,10 @@
 
-# Cyber Electro
-
-Cyber Electro es una plataforma de comercio electrónico especializada en la venta de productos electrónicos de última generación. Este proyecto proporciona una descripción general del sistema, sus características principales, las tecnologías utilizadas y cómo contribuir al desarrollo.
 
 <h2 align="center">
   <br>
   <img src="https://i.ibb.co/ZLB1fKW/3c80d141-1177-4e0e-a52f-28588a279d8d.jpg" alt="delicias-express" width="350" />
 </h2>
 Cyber Electro es una plataforma de comercio electrónico especializada en la venta de productos electrónicos de última generación. La plataforma ofrece una amplia gama de productos, que incluyen teléfonos inteligentes, computadoras portátiles, tabletas, dispositivos wearables, accesorios y más. El objetivo principal de Cyber Electro es proporcionar a los clientes una experiencia de compra conveniente, segura y satisfactoria para sus necesidades tecnológicas.
-
-
-
 ## Características Principales
 
 - **Catálogo de Productos:** Amplia selección de productos de marcas reconocidas.
@@ -20,9 +14,7 @@ Cyber Electro es una plataforma de comercio electrónico especializada en la ven
 - **Sistema de Reseñas y Valoraciones:** Feedback de clientes sobre productos.
 - **Ofertas y Promociones:** Anuncios de descuentos y promociones.
 - **Soporte al Cliente:** Centro de ayuda y servicio al cliente.
-
 ## Tecnologías Utilizadas
-
 - **Lenguaje de Programación:** Python
 - **Base de Datos:** MySQL
 - **Frontend:** HTML, CSS, JavaScript, React.js
@@ -30,8 +22,7 @@ Cyber Electro es una plataforma de comercio electrónico especializada en la ven
 - **Seguridad:** HTTPS, cifrado de datos, medidas contra ataques.
 - **Pago en Línea:** PayPal, Stripe
 - **Despliegue y Alojamiento:** AWS
-
 ## Authors
-
-- [@octokatherine](https://www.github.com/octokatherine)
+- [Patricio Morales]([https://github.com/Wargish])
+- [@Nicolás Varas]([https://github.com/NicolasVarasFigueroa])
 
