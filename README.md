@@ -1,7 +1,5 @@
+<img src="https://github.com/Wargish/CyberElectro/assets/101837509/7bef0303-5549-4d61-82fe-b0be9d1044b8" width="100" height="100">
 
-
-
-<img src="[https://your-image-url.type](https://github.com/Wargish/CyberElectro/assets/101837509/7bef0303-5549-4d61-82fe-b0be9d1044b8)" width="100" height="100">
 
 # Project Title
 
