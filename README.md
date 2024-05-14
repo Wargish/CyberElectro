@@ -1,4 +1,4 @@
-![IMG_5648](https://github.com/Wargish/CyberElectro/assets/101837509/7bef0303-5549-4d61-82fe-b0be9d1044b8)
+![IMG_5648](https://github.com/Wargish/CyberElectro/assets/101837509/7bef0303-5549-4d61-82fe-b0be9d1044b8 = 250x250)
 # Project Title
 
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
