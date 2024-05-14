@@ -4,7 +4,11 @@
   <br>
   <img src="https://i.ibb.co/ZLB1fKW/3c80d141-1177-4e0e-a52f-28588a279d8d.jpg" alt="delicias-express" width="350" />
 </h2>
+<h1>
 Cyber Electro es una plataforma de comercio electrónico especializada en la venta de productos electrónicos de última generación. La plataforma ofrece una amplia gama de productos, que incluyen teléfonos inteligentes, computadoras portátiles, tabletas, dispositivos wearables, accesorios y más. El objetivo principal de Cyber Electro es proporcionar a los clientes una experiencia de compra conveniente, segura y satisfactoria para sus necesidades tecnológicas.
+</h1>
+
+
 ## Características Principales
 
 - **Catálogo de Productos:** Amplia selección de productos de marcas reconocidas.
